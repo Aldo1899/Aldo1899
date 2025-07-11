@@ -1,16 +1,15 @@
-## Hi there 👋
+## Aldo Garcia Ortiz
 
-<!--
-**Aldo1899/Aldo1899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programacion: 
+![Pseint](https://img.shields.io/badge/-Pseint-c00707?atyle=flat&logo=Pseint&logoColor=white)
+![C](https://img.shields.io/badge/--158dcd?atyle=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/--158dcd?atyle=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-b9121f?atyle=flat&logo=Java&logoColor=white)
+![PHP](https://img.shields.io/badge/-php-777BB4?style=flat&logo-=php&logoColor=white)
 
-Here are some ideas to get you started:
+### Base de datos: 
+![PosgresSQL](https://img.shields.io/badge/-PosgresSQL-158dcd?atyle=flat&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/--5145d8?atyle=flat&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend: 
+![HTML](https://img.shields.io/badge/-HTML-e56a04?atyle=flat&logo=html5&logoColor=white)
